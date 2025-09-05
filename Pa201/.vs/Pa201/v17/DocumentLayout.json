@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lamanfh\\Desktop\\lab\\Pa201\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C76E09D7-4DC2-4B37-A05B-B9550EC7CFAE}|Pa201\\Pa201.csproj|c:\\users\\lamanfh\\desktop\\lab\\pa201\\pa201\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C76E09D7-4DC2-4B37-A05B-B9550EC7CFAE}|Pa201\\Pa201.csproj|solutionrelative:pa201\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lamanfh\\Desktop\\lab\\Pa201\\Pa201\\Program.cs",
+              "RelativeDocumentMoniker": "Pa201\\Program.cs",
+              "ToolTip": "C:\\Users\\lamanfh\\Desktop\\lab\\Pa201\\Pa201\\Program.cs",
+              "RelativeToolTip": "Pa201\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T10:07:09.871Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

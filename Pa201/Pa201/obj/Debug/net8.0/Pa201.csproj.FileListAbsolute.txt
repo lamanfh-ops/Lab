@@ -1,0 +1,14 @@
+C:\Users\lamanfh\Desktop\lab\Pa201\Pa201\bin\Debug\net8.0\Pa201.exe
+C:\Users\lamanfh\Desktop\lab\Pa201\Pa201\bin\Debug\net8.0\Pa201.deps.json
+C:\Users\lamanfh\Desktop\lab\Pa201\Pa201\bin\Debug\net8.0\Pa201.runtimeconfig.json
+C:\Users\lamanfh\Desktop\lab\Pa201\Pa201\bin\Debug\net8.0\Pa201.dll
+C:\Users\lamanfh\Desktop\lab\Pa201\Pa201\bin\Debug\net8.0\Pa201.pdb
+C:\Users\lamanfh\Desktop\lab\Pa201\Pa201\obj\Debug\net8.0\Pa201.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lamanfh\Desktop\lab\Pa201\Pa201\obj\Debug\net8.0\Pa201.AssemblyInfoInputs.cache
+C:\Users\lamanfh\Desktop\lab\Pa201\Pa201\obj\Debug\net8.0\Pa201.AssemblyInfo.cs
+C:\Users\lamanfh\Desktop\lab\Pa201\Pa201\obj\Debug\net8.0\Pa201.csproj.CoreCompileInputs.cache
+C:\Users\lamanfh\Desktop\lab\Pa201\Pa201\obj\Debug\net8.0\Pa201.dll
+C:\Users\lamanfh\Desktop\lab\Pa201\Pa201\obj\Debug\net8.0\refint\Pa201.dll
+C:\Users\lamanfh\Desktop\lab\Pa201\Pa201\obj\Debug\net8.0\Pa201.pdb
+C:\Users\lamanfh\Desktop\lab\Pa201\Pa201\obj\Debug\net8.0\Pa201.genruntimeconfig.cache
+C:\Users\lamanfh\Desktop\lab\Pa201\Pa201\obj\Debug\net8.0\ref\Pa201.dll
